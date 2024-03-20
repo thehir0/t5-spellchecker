@@ -56,7 +56,7 @@ The reason to use only edit 1 is because edit distance 2 can cause huge deviatio
 | Solution              | Recall | Precision |
 |-----------------------|--------|-----------|
 | Norvig solution       | 0.844  | 0.895     |
-| t5-small spellchecker | 0.864  | 0.952     |
+| t5-small spellchecker | 0.917  | 0.948     |
 
 ### Further improvement
 
