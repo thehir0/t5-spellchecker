@@ -2,6 +2,13 @@
 
 The goal is to implement context-sensitive spelling correction. The input of the code will be a set of text lines and the output will be the same lines with spelling mistakes fixed.
 
+<div align="center">
+<img src="https://github.com/thehir0/t5-spellchecker/blob/main/src/animation.gif" width="678"/>
+    
+Animation of model inference
+
+</div>
+
 ### Solution is to train encoder-decoder transformer for seq2seq spelling correction task
 
 [Norvig's solution](https://norvig.com/spell-correct.html) is quite simple without the use of neural approaches, in contrast to this solution, an idea emerged on how much more effective modern neural approaches are than old probabilistic approaches. 
